@@ -1,7 +1,6 @@
 # Scientific Machine Learning
 
-This repository collects projects in scientific machine learning,
-numerical modeling, and applied computational methods.
+This repository collects projects in scientific machine learning.
 
 ## Projects
 
